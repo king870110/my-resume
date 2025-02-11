@@ -28,11 +28,16 @@
 
 ## 📌 專案作品  
 
-### 🎲 **[Gashapon 扭蛋網站](https://github.com/king870110/Gashapon)**  
+### 🎲 **[Gashapon 扭蛋網站](https://github.com/king870110/Gashapon)** 
 - **技術：** React, NestJS, PostgreSQL  
-- **功能：** 讓使用者線上模擬抽扭蛋，並讓商家管理自己的商品。  
+- **功能：** 讓使用者線上模擬抽扭蛋，並讓商家管理自己的商品。
+- <a href="https://youtu.be/aQRafowEcxQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ### 🏡 **[民宿網站](https://time13.net/)**  
+- **技術：** WordPress, PHP, JavaScript  
+- **功能：** 民宿的形象網站，提供線上訂房功能。
+
+### 🏡 **[楓之谷經驗券計算](https://king870110.github.io/maplestoryexpandpotion.github.io/)**  
 - **技術：** WordPress, PHP, JavaScript  
 - **功能：** 民宿的形象網站，提供線上訂房功能。
 
